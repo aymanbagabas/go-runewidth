@@ -1,5 +1,5 @@
 module github.com/mattn/go-runewidth
 
-go 1.16
+go 1.18
 
-require github.com/rivo/uniseg v0.2.0
+require github.com/rivo/uniseg v0.4.4
